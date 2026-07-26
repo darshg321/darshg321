@@ -1,13 +1,19 @@
 ## hi, i'm Darsh ‼️
 
-i'm a high school student in Mississauga, and i'm passionate about building. i started my journey with software in 2022, but lately i've been creating hardware projects.
-my favorite so far has been [Minicopter](https://github.com/darshg321/Minicopter), a lightweight quadcopter, and [FancyBoard](https://github.com/darshg321/FancyBoard), a low-profile Choc keyboard.
+i'm a high school student in Mississauga, and i'm passionate about building. i started my journey with software in 2022, but for the past year i've been creating hardware projects.
+my favorite so far has been [Steady](https://github.com/darshg321/Steady), a double-inverted balancing pendulum, and [Ultisense](https://github.com/darshg321/Ultisense), a PCB designed to sense everything.
 
-currently, i'm working on [Psidog](https://github.com/darshg321/Psidog), a quadruped inspired by Boston Dynamic's Spot, and MIT's Mini Cheetah.
+currently, i'm working on a homemade tesla coil!
 
 <div align="left">
-  <img src="https://github.com/darshg321/Minicopter/blob/main/assets/Minicopter_Render.png?raw=true" height="20%" width="20%" alt="react logo"  />
-  <img src="https://github.com/darshg321/FancyBoard/blob/main/assets/FancyBoard_Render.png?raw=true" height="20%" width="20%" alt="react logo"  />
+  <img src="https://github.com/darshg321/Steady/raw/main/assets/RENDER.png?raw=true?raw=true" height="40%" width="40%" alt="react logo"  />
+  <img src="https://github.com/darshg321/Ultisense/raw/main/assets/BUILD.PNG?raw=true" height="15%" width="15%" alt="react logo"  />
+  <img src="https://github.com/darshg321/Mini-Air/raw/main/assets/PCB_RENDER.png" height="35%" width="35%" alt="react logo"  />
+  <img src="https://github.com/darshg321/Boreas/raw/main/assets/RENDER.png" height="30%" width="30%" alt="react logo"  />
+  <img src="https://github.com/darshg321/Spotiplay/blob/main/BUILD.png?raw=true" height="15%" width="15%" alt="react logo"  />
+  <img src="https://github.com/darshg321/EasyRP2040/blob/main/BUILD.png?raw=true" height="15%" width="15%" alt="react logo"  />
+  <img src="https://github.com/darshg321/fallout-badge/blob/main/BUILD.png?raw=true" height="20%" width="20%" alt="react logo"  />
+  <img src="https://github.com/darshg321/Fume-Extractor/blob/main/assets/BUILD.png?raw=true?raw=true" height="10%" width="10%" alt="react logo"  />
   <img src="https://github.com/darshg321/arcadetris/blob/main/images/arcadetris.png?raw=true" height="20%" width="20%" alt="react logo"  />
 </div>
 <div align="left">
