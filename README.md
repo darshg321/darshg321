@@ -1,6 +1,6 @@
 ## hi, i'm Darsh ‼️
 
-i'm a high school student in Mississauga, and i'm passionate about building. i started my journey with software in 2022, but for the past year i've been creating hardware projects.
+i'm passionate about building. i started my journey with software in 2022, but for the past year i've been creating hardware projects.
 my favorite so far has been [Steady](https://github.com/darshg321/Steady), a double-inverted balancing pendulum, and [Ultisense](https://github.com/darshg321/Ultisense), a PCB designed to sense everything.
 
 currently, i'm working on a homemade tesla coil!
