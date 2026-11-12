@@ -1,6 +1,6 @@
 # hi!! <sub><sup><a href="https://darsh.app">darsh.app</a> · <code>ssh darsh.app</code></sup></sub>
 
-i'm darsh, a grade 12 student in Mississauga who makes hardware: circuit boards, robots, drones and the occasional thing that lights up. i co-lead [FraserHacks](https://fraserhacks.dev), run [Dayoneof](https://dayoneof.hackclub.com) and lead the [CS Club](https://cs.fraserhacks.dev).
+i'm darsh, a grade 12 student in Mississauga who makes hardware: circuit boards, robots, drones and things that lights up. i co-lead [FraserHacks](https://fraserhacks.dev), run [Dayoneof](https://dayoneof.hackclub.com) and lead the [CS Club](https://cs.fraserhacks.dev).
 
 <p align="center">
   <a href="https://github.com/darshg321/Icey"><img src="assets/icey.png" alt="Icey" title="Icey: an Uno-sized FPGA board, and now a chip" width="160" /></a>
